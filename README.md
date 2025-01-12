@@ -1,5 +1,5 @@
-# Prompt-to-code
-# Music Application Using LLM -Implementing Filtering and Search Features
+# Prompt-to-codes
+# Round Alpha (Music Application Using LLM -Implementing Filtering and Search Features)
 
 As technology is evolving, artificial intelligence is becoming an integral part of our daily lives. Large Language Models (LLMs),
 such as ChatGPT and Gemini, have proven invaluable for tasks ranging from trip planning to workplace assistance. 
